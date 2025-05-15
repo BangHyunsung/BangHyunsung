@@ -35,7 +35,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/현성-방-397948361/" target="_blank">
+  <a href="https://www.linkedin.com/in/hyunsung-bang-397948361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hyeonseong0209@gmail.com" target="_blank">
